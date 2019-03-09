@@ -17,7 +17,7 @@ body {
 hr {
   max-width: 50px;
   border-width: 3px;
-  border-color: #F05F40;
+  border-color: #4B0082;
 }
 
 hr.light {
@@ -25,13 +25,13 @@ hr.light {
 }
 
 a {
-  color: #F05F40;
+  color: #4B0082;
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
 
 a:hover {
-  color: #f05f40;
+  color: #4B0082;
 }
 
 h1,
@@ -44,7 +44,7 @@ h6 {
 }
 
 .bg-primary {
-  background-color: #F05F40 !important;
+  background-color: #4B0082 !important;
 }
 
 .bg-dark {
@@ -240,7 +240,7 @@ header.masthead p {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background: rgba(240, 95, 64, 0.9);
+  background: rgba(75,0,130, 0.9);
   -webkit-transition: all 0.2s;
   transition: all 0.2s;
 }
@@ -288,7 +288,7 @@ header.masthead p {
 }
 
 .text-primary {
-  color: #F05F40 !important;
+  color: #4B0082 !important;
 }
 
 .btn {
@@ -304,16 +304,19 @@ header.masthead p {
 }
 
 .btn-primary {
-  background-color: #F05F40;
-  border-color: #F05F40;
+  background-color: #4B0082;
+  border-color: #4B0082;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color: #fff;
-  background-color: #ee4b28 !important;
+  background-color: #0000FF !important;
 }
 
 .btn-primary:active, .btn-primary:focus {
-  -webkit-box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
-  box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
+  -webkit-box-shadow: 0 0 0 0.2rem rgba(75,0,130, 0.5) !important;
+  box-shadow: 0 0 0 0.2rem rgba(75,0,130, 0.5) !important;
 }
+.melancia{color: #FFFFFF;}
+
+.clicaaipow{color: #FFFFFF;}
